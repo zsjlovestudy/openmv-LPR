@@ -33,7 +33,6 @@
 
 ### reference
 
-基于深度学习高性能中文车牌识别[HyperLPR](https://github.com/zeusees/HyperLPR)
 
 [OpenCV Cascade Classifier](https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html)
 
